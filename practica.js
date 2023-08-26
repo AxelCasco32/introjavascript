@@ -22,3 +22,9 @@ var edad= Number (prompt ("ingresa tu edad"))
 var año= 2023 - edad 
 
 alert ("Tu nombre es " + nombre + " tenes " + edad + " años de edad y naciste en el año " + año )
+
+
+// incrementar una variable 
+num ++
+num = num + 1 
+ 
